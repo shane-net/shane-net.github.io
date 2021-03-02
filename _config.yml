@@ -16,3 +16,6 @@ author:
   url:            https://twitter.com/
 
 paginate:         5
+
+github:
+  repo:           https://github.com/poole/hyde
