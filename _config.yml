@@ -1,1 +1,20 @@
 theme: jekyll-theme-minimal
+
+# Dependencies
+highlighter:      rouge
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Shane Henry Harper
+tagline:          'Scientist'
+description:      'Scientist.'
+url:              http://shanehenryharper.com
+baseurl:          /
+
+author:
+  name:           'Shane Henry Harper'
+  url:            https://twitter.com/
+
+paginate:         5
